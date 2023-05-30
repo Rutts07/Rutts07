@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Rahoth
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rutts07&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rutts07&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutts07&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutts07&langs_count=10&layout=compact" />
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
