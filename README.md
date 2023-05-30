@@ -8,4 +8,4 @@ I'm a Computer Science undergrad at IIIT Hyderabad. I'm also pursuing a Masters 
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rutts07&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutts07&hide_progress=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutts07&layout=true" />
