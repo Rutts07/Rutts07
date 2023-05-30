@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Rahoth
 
-I'm Rahoth, a Computer Science undergrad at IIIT Hyderabad. I'm also pursuing a Masters in Computational Linguistics. 
+I'm a Computer Science undergrad at IIIT Hyderabad. I'm also pursuing a Masters in Computational Linguistics. 
 
-- 🌱 I have experience in fields like Natural Language Processing, Machine / Deep Learning, and Web and Game Development.
+- 🌱 I have experience in the fields like Natural Language Processing, Machine / Deep Learning, and Web and Game Development.
 - 📫 How to reach me: rahothvarman.p@research.iiit.ac.in
 - 😄 Pronouns: He / Him
 
