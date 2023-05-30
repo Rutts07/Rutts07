@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rahoth
+<h2 align="center">Hello there 👋, I'm Rahoth</h2>
 
 I'm a Computer Science undergrad at IIIT Hyderabad. I'm also pursuing a Masters in Computational Linguistics. 
 
